@@ -1,6 +1,6 @@
 <p>
-  align="centre"
- <b># Hi 👋, I'm Shanvi Mishra </b>
+  align="centre">
+ <b>Hi 👋, I'm Shanvi Mishra </b>
 </p>
 
 🎓 Final Year B.Tech Information Technology Student  
