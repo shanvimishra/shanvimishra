@@ -1,6 +1,5 @@
 
-<h1> Hi 👋, I'm Shanvi Mishra </h1>
-
+<h1 align="center">Hi 👋, I'm Shanvi Mishra</h1>
 
 🎓 Final Year B.Tech Information Technology Student  
 📊 Aspiring Data Analyst & Software Enthusiast  
@@ -30,10 +29,10 @@ Currently working on:
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
 
 ### Frameworks & Tools
-![Pandas](https://img.shields.io/badge/Pandas-003B57?style=for-the-badge)
-![Numpy](https://img.shields.io/badge/Numpy-003B57?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-003B57?style=for-the-badge)
-![Scikitlearn](https://img.shields.io/badge/Scikitlearns-003B57?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-2C2F72?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-4DABCF?style=for-the-badge&logo=numpy&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F59E0B?style=for-the-badge&logo=scikitlearn&logoColor)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
