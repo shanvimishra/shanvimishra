@@ -13,7 +13,7 @@ I enjoy working with data to extract insights and building backend systems that 
 
 Currently working on:
 - Data Analytics projects (Python, SQL, Power BI)
-- DSA for placements (Python)
+- DSA for placements (Python,Java)
 
 ---
 
