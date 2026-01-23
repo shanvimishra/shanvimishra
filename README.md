@@ -1,7 +1,6 @@
-<p>
-  align="centre">
- <b>Hi 👋, I'm Shanvi Mishra </b>
-</p>
+
+<h> Hi 👋, I'm Shanvi Mishra </h>
+
 
 🎓 Final Year B.Tech Information Technology Student  
 📊 Aspiring Data Analyst & Software Enthusiast  
