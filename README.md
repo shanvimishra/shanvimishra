@@ -1,40 +1,61 @@
-## Hi there 👋
 
 # Hi 👋, I'm Shanvi Mishra  
 
-🎓 Final-year CS student | Aspiring Data Analyst & Software Engineer  
-💡 Passionate about data, backend, and building real-world projects  
+🎓 Final Year B.Tech Computer Science Student  
+📊 Aspiring Data Analyst | Backend & Software Enthusiast  
+🚀 Actively preparing for high-impact tech roles (Data / Analyst)
 
 ---
 
-## 🔗 Connect with me
-- LinkedIn: https://linkedin.com/in/your-link  
-- GitHub: https://github.com/shanvimishra  
-- Portfolio: https://yourwebsite.com  
+## 🧠 About Me
+I am a passionate Computer Science student focused on **Data Analytics and Software Development**.  
+I enjoy working with data to extract insights and building backend systems that solve real-world problems.  
+
+Currently working on:
+- Data Analytics projects (Python, SQL, Power BI)
+- DSA for placements (Python)
 
 ---
 
-## 🛠️ Technologies
+## 🔗 Connect with Me
+- LinkedIn: https://linkedin.com/in//shanvimishra
+- GitHub: https://github.com/shanvimishra 
+---
+
+## 🛠 Tech Stack
+
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+
+### Frameworks & Tools
+![Pandas](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
+![Numpy](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
+![Scikitlearn](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 
 ---
 
-## 📊 GitHub Stats
-![Shanvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=shanvimishra&show_icons=true&theme=radical)
-
----
+## 📌 Featured Projects
 
 ## 🚀 Featured Projects
 ### Employee Productivity Tracker  
 Flask + SQLite + Dashboard  
-👉 https://github.com/shanvimishra/employee-productivity
+👉 [https://github.com/shanvimishra/employee-productivity](https://github.com/shanvimishra/employee-productivity-predictor-flask.git)
 
-### Data Analytics Dashboard  
-Python + Pandas + Power BI  
-👉 https://github.com/shanvimishra/data-dashboard
+## 📊 GitHub Stats
+![Shanvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=shanvimishra&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shanvimishra&layout=compact&theme=tokyonight)
+
+---
+
+## 💡 Quote I Live By
+*"Small consistent efforts beat massive inconsistent ones."*
 
 
 <!--
