@@ -1,8 +1,10 @@
+<p>
+  align="centre"
+ <b># Hi 👋, I'm Shanvi Mishra </b>
+</p>
 
-# Hi 👋, I'm Shanvi Mishra  
-
-🎓 Final Year B.Tech Computer Science Student  
-📊 Aspiring Data Analyst | Backend & Software Enthusiast  
+🎓 Final Year B.Tech Information Technology Student  
+📊 Aspiring Data Analyst & Software Enthusiast  
 🚀 Actively preparing for high-impact tech roles (Data / Analyst)
 
 ---
