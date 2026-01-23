@@ -29,10 +29,10 @@ Currently working on:
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
 
 ### Frameworks & Tools
-![Pandas](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
-![Numpy](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
-![Scikitlearn](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-003B57?style=for-the-badge)
+![Numpy](https://img.shields.io/badge/Numpy-003B57?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-003B57?style=for-the-badge)
+![Scikitlearn](https://img.shields.io/badge/Scikitlearns-003B57?style=for-the-badge)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
