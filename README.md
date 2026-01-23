@@ -39,9 +39,6 @@ Currently working on:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 
 ---
-
-## 📌 Featured Projects
-
 ## 🚀 Featured Projects
 ### Employee Productivity Tracker  
 Flask + SQLite + Dashboard  
