@@ -44,6 +44,10 @@ Currently working on:
 Flask + SQLite + Dashboard  
 👉 [https://github.com/shanvimishra/employee-productivity](https://github.com/shanvimishra/employee-productivity-predictor-flask.git)
 
+### Swasthya Sathi Healthcare Project
+React + MongoDB  
+👉 [https://github.com/shanvimishra/Swasthya-Sathi-React-MongoDB.git](https://github.com/shanvimishra/Swasthya-Sathi-React-MongoDB.git)
+
 ## 📊 GitHub Stats
 ![Shanvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=shanvimishra&show_icons=true&theme=tokyonight)
 
