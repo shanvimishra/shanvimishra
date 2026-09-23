@@ -40,6 +40,10 @@ Currently working on:
 
 ---
 ## 🚀 Featured Projects
+### Vendor Performance Analysis Tool 
+Python + SQL + Power BI + Statistical Analysis
+👉 [https://github.com/shanvimishra/vendor-performance-analysis]((https://github.com/shanvimishra/vendor-performance-analysis.git))
+
 ### Employee Productivity Tracker  
 Flask + SQLite + Dashboard  
 👉 [https://github.com/shanvimishra/employee-productivity](https://github.com/shanvimishra/employee-productivity-predictor-flask.git)
